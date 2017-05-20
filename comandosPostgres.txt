@@ -1,0 +1,5 @@
+# comandos uteis para postgres
+
+# Alterando senha de usuario
+psql -c "ALTER USER postgres WITH PASSWORD '123456'"
+
